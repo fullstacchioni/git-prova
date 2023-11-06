@@ -2,7 +2,7 @@ import { TypeUser } from "../types/types";
 
 export const users: TypeUser[] = [
   {
-    name: "Widad Taouaf",
-    path: "Taouaf",
+    name: "Ayesha Hamid",
+    path: "hamid",
   },
 ];
