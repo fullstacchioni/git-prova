@@ -5,6 +5,10 @@ const PageProcopio = () => {
     <>
       <h1>Gabriele Procopio</h1>
       <Logo />
+      <p>
+        ho fatto un git checkout su procpio-init e poi ho fatto un git rebase
+        master
+      </p>
     </>
   );
 };
