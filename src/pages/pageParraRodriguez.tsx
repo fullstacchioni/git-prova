@@ -1,5 +1,7 @@
+import Logo from "../components/parrarodriguez/Logo";
+
 const PageParraRodriguez = () => {
-    return <div>Manuel Parra Rodriguez</div>;
+    return <Logo />;
 }
 
 export default PageParraRodriguez;
